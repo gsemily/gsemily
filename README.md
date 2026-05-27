@@ -5,7 +5,8 @@
 새로운 기술을 빠르게 학습하고 실제 서비스에 적용하는 과정에서 강점을 발휘합니다.
 
 📮 Contact me: gsemily22@gmail.com
-
+<br>
+<br>
 
 ## 🗂️ Projects
 
@@ -13,7 +14,7 @@
 |------|------|------|
 | [Festie](https://github.com/55josama/festie) | 축제, 콘서트, 팝업스토어 등 행사 정보를 한곳에 모아 제공하는 실시간 행사 SNS 플랫폼 | operation-service, ai-service |
 | [Surmile](https://github.com/chill-jo/SURMILE) | 설문 참여 ↔ 포인트 적립 ↔ 상품 교환을 하나로 잇는 앱테크 리워드 설문 플랫폼 | user-service, ai-service |
-
+<br>
 
 ## 🛠️ Tech Stacks
 
